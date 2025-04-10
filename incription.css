@@ -1,0 +1,12 @@
+.incription{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    margin: 10px 0;
+}
+h1{
+    text-align: center;
+    color: #0466c8;
+}
